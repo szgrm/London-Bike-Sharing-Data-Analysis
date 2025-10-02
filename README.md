@@ -21,3 +21,5 @@ Dataset used in this project: [London Bike Sharing Dataset (Kaggle)](https://www
 - Hourly usage profile highlighting peak hours and changes in demand
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/sezgi.i.rem.i.lgar/viz/bike_17593283277000/Dashboard)
+
+![london_bike](https://github.com/user-attachments/assets/2713c9aa-3859-4c4c-92f6-4ebc2a9ec521)
