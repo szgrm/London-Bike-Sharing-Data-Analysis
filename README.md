@@ -1,6 +1,6 @@
 ## London Bike Sharing Analysis
 
-This project is a data analysis of the London bike sharing system.  The main goal is to explore historical usage patterns, the impact of weather conditions, and hourly/seasonal trends to generate insights.  It was created for educational purposes, inspired by [Mo Chan’s YouTube tutorial](https://www.youtube.com/watch?v=nl9eZl1IOKI).
+This project is a data analysis of the London bike sharing system.  The main goal is to explore historical usage patterns, the impact of weather conditions, and hourly/seasonal trends to generate insights.  It was created for educational purposes, inspired by [Mo Chen’s YouTube tutorial](https://www.youtube.com/watch?v=nl9eZl1IOKI).
 
 ### Dataset
 
